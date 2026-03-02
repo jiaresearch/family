@@ -13,5 +13,6 @@ Sometimes when reading it is helpful to foster a _tranquil_ environment. The ima
 :::{figure} images/pic1.png
 :label: fig:mountains
 
+:::{figure} images/pic2.png
 A photograph of some beautiful mountains to look at whilst reading.
 :::
